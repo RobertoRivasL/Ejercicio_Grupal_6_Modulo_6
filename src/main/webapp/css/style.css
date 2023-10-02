@@ -1,0 +1,40 @@
+body {
+    background-color: grey !important;
+}
+
+.navbar-toggler-icon {
+    filter: invert(100%);
+}
+
+.table-responsive {
+    border-radius: 15px;
+    overflow: hidden;
+}
+
+.table {
+    margin-bottom: 0;
+}
+
+.table thead th {
+    background-color: #343a40;
+    color: #fff;
+}
+
+.form-container {
+    max-width: 600px;
+    margin: auto;
+}
+
+.form-container .form-outline {
+    margin-bottom: 20px;
+}
+
+/* Add your custom CSS styles here */
+.my-custom-class {
+    /* Your custom styles for form elements */
+}
+
+/* Media queries for responsiveness */
+@media screen and (max-width: 768px) {
+    /* Adjust styles for smaller screens */
+}
